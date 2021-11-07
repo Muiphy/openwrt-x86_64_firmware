@@ -20,4 +20,4 @@
 git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
 
 # Add a uci-app-dockerman
-https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
+#https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
